@@ -18,3 +18,5 @@ The project was completed using Python in a Jupyter Notebook environment. Key li
 # Outcome
 
 Overall, this project demonstrates the ability to work with large datasets, apply analytical techniques, and communicate insights in a way that supports real business decisions. It reflects a strong combination of technical skills and business understanding, which are essential for a data analyst role.
+
+### Data files are not included due to size, please contact for access
